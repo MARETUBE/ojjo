@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('../NotoSerifCondensed-Medium.eot');
+    src: url('../NotoSerifCondensed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../NotoSerifCondensed-Medium.woff2') format('woff2'),
+        url('../NotoSerifCondensed-Medium.woff') format('woff'),
+        url('../NotoSerifCondensed-Medium.ttf') format('truetype'),
+        url('../NotoSerifCondensed-Medium.svg#NotoSerifCondensed-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('../NotoSerifCondensed-Light.eot');
+    src: url('../NotoSerifCondensed-Light.eot?#iefix') format('embedded-opentype'),
+        url('../NotoSerifCondensed-Light.woff2') format('woff2'),
+        url('../NotoSerifCondensed-Light.woff') format('woff'),
+        url('../NotoSerifCondensed-Light.ttf') format('truetype'),
+        url('../NotoSerifCondensed-Light.svg#NotoSerifCondensed-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('../NotoSerifCondensed-Regular.eot');
+    src: url('../NotoSerifCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../NotoSerifCondensed-Regular.woff2') format('woff2'),
+        url('../NotoSerifCondensed-Regular.woff') format('woff'),
+        url('../NotoSerifCondensed-Regular.ttf') format('truetype'),
+        url('../NotoSerifCondensed-Regular.svg#NotoSerifCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('../NotoSerifCondensed-Bold.eot');
+    src: url('../NotoSerifCondensed-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../NotoSerifCondensed-Bold.woff2') format('woff2'),
+        url('../NotoSerifCondensed-Bold.woff') format('woff'),
+        url('../NotoSerifCondensed-Bold.ttf') format('truetype'),
+        url('../NotoSerifCondensed-Bold.svg#NotoSerifCondensed-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif Condensed';
+    src: url('../NotoSerifCondensed-Thin.eot');
+    src: url('../NotoSerifCondensed-Thin.eot?#iefix') format('embedded-opentype'),
+        url('../NotoSerifCondensed-Thin.woff2') format('woff2'),
+        url('../NotoSerifCondensed-Thin.woff') format('woff'),
+        url('../NotoSerifCondensed-Thin.ttf') format('truetype'),
+        url('../NotoSerifCondensed-Thin.svg#NotoSerifCondensed-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
