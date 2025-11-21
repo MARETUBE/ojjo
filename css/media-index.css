@@ -1,0 +1,85 @@
+@media (max-width: 768px){
+.container{
+    max-width: 748px;
+    margin: 0 auto;
+}
+.hero_content{
+    height: 84vh;
+}
+.header_nav a{
+    display: none;
+    }
+.header_nav svg{
+    display: none;
+}
+.header_logo img{
+    margin-left: 90px;
+}
+.hero_img  img:nth-child(6){
+    display:none;
+}
+.hero_img  img:nth-child(5){
+    display:none;
+}
+.hero_img  img:nth-child(4){
+    display:none;
+}
+.hero_img  img:nth-child(3){
+    display:none;
+}
+.catalog_manybutton{
+    text-align: center;
+}
+.catalog_button{
+    margin-bottom: 20px;
+    margin-right: 0;
+}
+.col-3{
+    width: 50%;
+}
+.catalog-row-content, .catalog-row-content1, .catalog-row-content2, .catalog-row-content3, .catalog-row-content4, .catalog-row-content5{
+    align-items: center;
+}
+.present_row-contentzero{
+    margin-bottom: 20px;
+}
+.sotialmed_content-flex{
+    justify-content: center;
+}
+.footer_hr{
+    width: 100%;
+}
+}
+
+
+
+@media (max-width: 480px){
+    .container{
+        max-width: 460px;
+        margin: 0 auto;
+    }
+    .hero_img  img:nth-child(2){
+    display:none;
+}
+    .hero_img  img:nth-child(1){
+    display:none;
+}
+.col-3{
+    width: 100%;
+}
+.visit_secpart{
+    width: 100%;
+}
+.sotialmed_content-flex img{
+    width: 100%;
+}
+.mailing_mix{
+    display: block;
+}
+.mailing_box{
+    margin-top: 10px;
+}
+.footercol-4{
+    width: 50%;
+}
+}

@@ -152,51 +152,45 @@ hr{
     padding: 0px 15px;
 }
 .catalog-row-content{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/table.jpg);
+    background: url(../img/table.jpg) no-repeat center/cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
     
 }
 .catalog-row-content2{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/on\ chain.jpg);
+    background: url(../img/on\ chain.jpg) no-repeat center/cover;
     
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 .catalog-row-content3{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/grn.jpg);
+    background: url(../img/grn.jpg) no-repeat center/cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 .catalog-row-content4{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/woman.jpg);
+    background: url(../img/woman.jpg) no-repeat center/cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 .catalog-row-content5{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/2rings.jpg);
+    background: url(../img/2rings.jpg) no-repeat center/cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 .catalog-row-content1{
-    width: 350px;
     height: 280px;
-    background-image: url(../img/hands.jpg);
+    background: url(../img/hands.jpg) no-repeat center/cover;
     display: flex;
     align-items: flex-end;
     justify-content: center;
@@ -297,8 +291,7 @@ hr{
     margin-bottom: 60px;
 }
 .present_row-img{
-    background-image: url(../img/Rectangle_5.jpg);
-    width: 350px;
+    background: url(../img/Rectangle_5.jpg) no-repeat center/cover;
     height: 370px;
     display: flex;
     align-items: flex-end;
@@ -306,8 +299,7 @@ hr{
 }
 
 .present_row-img1{
-    background-image: url(../img/Rectangle_5\ \(1\).jpg);
-    width: 350px;
+    background: url(../img/Rectangle_5\ \(1\).jpg) no-repeat center/cover;
     height: 370px;
     display: flex;
     align-items: flex-end;
@@ -315,8 +307,7 @@ hr{
 }
 
 .present_row-img2{
-    background-image: url(../img/Rectangle_5\ \(2\).jpg);
-    width: 350px;
+    background: url(../img/Rectangle_5\ \(2\).jpg) no-repeat center/cover;
     height: 370px;
     display: flex;
     align-items: flex-end;
